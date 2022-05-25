@@ -23,7 +23,7 @@ ___
 
 На першому етапі наш бот-асистент повинен вміти зберігати ім'я та номер телефону, знаходити номер телефону на ім'я, змінювати записаний номер телефону, виводити в консоль усі записи, які зберіг. Щоб реалізувати таку нескладну логіку, скористаємося словником. У словнику зберігатимемо ім'я користувача як ключ і номер телефону як значення.___
 #### Автор
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-08)](https://github.com/VlodyaKr)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-09)](https://github.com/VlodyaKr)
 
 #### Володимир Кравченко
 [Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Core-HomeWork-09)
